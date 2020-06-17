@@ -65,7 +65,7 @@ library SafeMath {
             z = ((add((x / z),z)) / 2);
         }
     }
-    //10000×(1-5%)^180˜0.98
+    //10000Ã—(1-5%)^180Ëœ0.98
     /**
      * @dev gives square. multiplies x by x
      */
@@ -112,7 +112,7 @@ contract ClubEther is Referrer {
   uint256 public dyFloor = 10;
   uint256 public poitProfit;
 
-  string constant public name = "Easy Club";
+  string constant public name = "Club Ether";
   mapping (uint256 => uint256) id2Mask;
   mapping (address => mapping (uint256 => Data.PlayerRound)) public playerRnds;
   mapping (uint256 => Data.Round) public round;
