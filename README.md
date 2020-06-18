@@ -2,7 +2,7 @@ Rule analysis
 
     = 46% static incomes
     <=46% dynamic incomes
-    5% recommended champion prize pool
+    5% daily club awards
     3% platform fee
     
     
