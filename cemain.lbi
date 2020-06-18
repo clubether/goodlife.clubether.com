@@ -1,3 +1,7 @@
+/*
+	This file is part of BaseCalcy.
+*/
+
 library SafeMath {
     
     function mul(uint256 a, uint256 b) 
