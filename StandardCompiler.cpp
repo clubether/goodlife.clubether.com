@@ -15,7 +15,7 @@
  * @author ClubEther
  * @date 2020
  * Standard JSON compiler interface.
- */
+ *//
 
 #include <libsolidity/interface/StandardCompiler.h>
 
